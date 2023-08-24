@@ -1,1 +1,3 @@
 # CPE232_Potal
+
+hi CPE232 - CPE31S6
